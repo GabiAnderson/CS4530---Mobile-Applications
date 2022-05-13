@@ -4,6 +4,9 @@ Developed a single app in the course of a single semester with 3 teammates. Can 
 
 ## Final 
 Presentation of the final app can be found here: https://youtu.be/1tVmExW3tzk
+Adobe XD files can be found here:
+  Wireframe: https://xd.adobe.com/view/652b2627-9a8b-4ecb-ae86-87b1dfe92eed-3078/?fullscreen
+  Wireframe w/ Design Details: https://xd.adobe.com/view/3021ad26-d33f-4f32-ae48-f431f5b19f7d-6572/?fullscreen
 
 ## Part 1
 Our "client" request we develop a lifestyle app designed to help people manage their dialy lives.
