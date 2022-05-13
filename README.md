@@ -1,6 +1,9 @@
 # CS4530---Mobile-Applications
 
-Developed a single app in the course of a single semester with 3 teammates.
+Developed a single app in the course of a single semester with 3 teammates. Can also be found here: https://github.com/Mistah-Jones/LifeStyle_App
+
+## Final 
+Presentation of the final app can be found here: https://youtu.be/1tVmExW3tzk
 
 ## Part 1
 Our "client" request we develop a lifestyle app designed to help people manage their dialy lives.
